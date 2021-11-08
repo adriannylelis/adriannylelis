@@ -22,6 +22,7 @@
   <img height="250em" src="https://i.ibb.co/wycJ1FL/adri-gif.gif" alt="adri-gif" border="0">  
   <a href="https://www.linkedin.com/in/adrianny-lelis-092420172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href="mailto:adrianny.lelis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+    
+![Snake animation](https://github.com/adriannylelis/adriannylelis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
