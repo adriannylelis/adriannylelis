@@ -16,12 +16,15 @@
 <div align="left">
   <a href="https://github.com/adriannylelis">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=adriannylelis&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/>
+    
+ <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/> -->
 
-  
+  <p>
   <img height="250em" src="https://i.ibb.co/wycJ1FL/adri-gif.gif" alt="adri-gif" border="0">  
+    
   <a href="https://www.linkedin.com/in/adrianny-lelis-092420172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 	<a href="mailto:adrianny.lelis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:adrianny.lelis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/adriannylelis/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     
 ![Snake animation](https://github.com/adriannylelis/adriannylelis/blob/output/github-contribution-grid-snake.svg)
  
