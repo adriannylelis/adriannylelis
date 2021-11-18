@@ -3,9 +3,9 @@
 
 - 👩🏻💻 Sou a moça da TI em uma escola privada.
 - 📜📚 Atualmente estudando para dar inicio à migração de carreira!
-- 👾🎮 Gosto de jogar uns joguinhos, me adiciona na PSN 👉 Drika1337
+<!-- 👾🎮 Gosto de jogar uns joguinhos, me adiciona na PSN 👉 Drika1337
 
-<!--
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
