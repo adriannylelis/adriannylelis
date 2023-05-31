@@ -19,7 +19,7 @@ Currently, I'm studying full stack software development ![JavaScript](https://im
   <!-- <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=adriannylelis&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>-->
     
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/> 
 
 
   <p>
