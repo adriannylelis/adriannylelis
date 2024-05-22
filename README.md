@@ -1,10 +1,10 @@
 ## Hello there👋
 
-My name is Adrianny Lelis. I currently live in a rural region called Lucas do Rio Verde, Brazil and I work as system support with agribusiness systems.
+My name is Adrianny Lelis. I currently live in Campo Grande, MS, Brazil, where I work as a full stack developer for a TV station.
 
-I graduated in Information Technology but my passion for development starts when I gave computation thinking classes for children at an elementary school while I worked with IT infrastructure.
+I graduated in Information Technology, but my passion for development began when I taught computational thinking classes to elementary school children while working in IT infrastructure. This experience sparked my interest and led me to pursue a career in software development.
 
-Currently, I'm studying full stack software development ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+Here are some of the tools I am proficient with: ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 	![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 	![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 	![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
