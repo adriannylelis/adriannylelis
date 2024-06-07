@@ -10,6 +10,7 @@ Here are some of the tools I am proficient with: ![JavaScript](https://img.shiel
 	![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 	![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 	![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=orange)&nbsp;
+	![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 
 
 
