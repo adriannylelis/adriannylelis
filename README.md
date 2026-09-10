@@ -20,11 +20,6 @@ My focus is designing systems that are **reliable, observable, and scalable in p
 
 
 
-<div align="left">
-
-<img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adriannylelis&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
 
 
 <a target="_blank" href="https://www.linkedin.com/in/adrianny-lelis-092420172/">
